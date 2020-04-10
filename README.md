@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/evansinho/The-Next-Web/b71ec4dc77f7e27b538f433b4f1a774c4018a6cc/index.html)
+[Live Demo Link](https://safaerden.github.io/TheNextWeb-Replica/)
 
 ### Prerequisites
 
