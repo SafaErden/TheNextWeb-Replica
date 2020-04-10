@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # The Next Web Homepage Replica
 
 > This project is a clone of TheNextWeb.com homepage. It makes use of float, flex and grid CSS display positioning styles. This was completed as part of the Microverse remote software developement curriculum using the pair programming approach. Content of the webpage is copied from [that](https://www.thenextweb.com) original page.
@@ -12,7 +11,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/evansinho/The-Next-Web/b71ec4dc77f7e27b538f433b4f1a774c4018a6cc/index.html)
+[Live Demo Link](https://safaerden.github.io/TheNextWeb-Replica/)
 
 ### Prerequisites
 
@@ -60,6 +59,3 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - TheOdinProject.com PROJECT: BUILDING WITH RESPONSIVE DESIGN
-=======
-will be populated
->>>>>>> 530c854aea56b79b94a1d03bd797d1e08b0fc1e5
